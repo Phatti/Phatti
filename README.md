@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on implementing 
+- 🔭 I’m currently working on implementing API Test automation with Mock services
 - 🌱 I’m currently learning Microservices with Spring boot and Spring cloud
 - 👯 I’m looking to collaborate on Java ful stack development projects
 - 🤔 I’m looking for help with :Kafka messages, terraform
